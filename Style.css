@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-image:  url(imagee/web\ \(2\).jpg);
+    background-position: center;
+    background-size: cover;
+    height: 150vh;
+    position: relative;   
+}
+.nav{
+  
+   float: right;
+    list-style: none;
+    color: white;  
+}
+.nav li{
+    display: inline-block;  
+}
+.nav li a{
+    padding: 15px 15px;
+    margin-top: 5px;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 100;
+    color: white;
+    
+
+}
+.nav a:hover{
+    color: red;
+   
+}
+.info{
+    border: 1px solid white;
+    margin-left: 500px;
+    
+    width:220px;
+    background-color: black;
+    padding: 10px 10px;
+    
+      
+   
+}
+.inputt{
+    padding: 10px 10px;
+    top: 100px;
+    
+}
+.inputt input{
+    width: 200px;
+    height: 25px;
+
+}
+.inputt p{
+    width: 25px;
+    color: white;
+    display: inline;
+    
+}
+.inputt button{
+    margin-left: 70px;
+    margin-top: 20px;
+    width: 60px;
+    padding: 5px 5px;
+
+}
